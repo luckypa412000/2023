@@ -8,7 +8,7 @@ body {
 	margin: 0 auto;
 	width: 800px;
 	padding: 0;
-	background: #7a2122 url('../images/body_bg.gif') repeat-x top;
+	background: #3689e2 url('../images/body_bg.gif') repeat-x top;
 	font-family: Helvetica, sans-serif;
 	font-size: 62.5%;
 	color: #333;
@@ -148,10 +148,10 @@ the layout
 
 #footer {
 	clear: both;
-	background: #eee;
+	background: #7a9ef7;
 	padding: 10px;
 	border-top: 2px solid #ddd;
 	text-align: center;
-	color: #777;
+	color: #ffffff;
 }
   
