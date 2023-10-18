@@ -11,7 +11,7 @@ body {
 	background: #3689e2 url('../images/body_bg.gif') repeat-x top;
 	font-family: Helvetica, sans-serif;
 	font-size: 62.5%;
-	color: #333;
+	color: #000000;
 }
 
 h1, h2, p, ul, li {
@@ -85,7 +85,7 @@ the layout
 	padding: 10px;
 	width: 780px;
 	background: #fff;
-	border: 10px solid #5c0505;
+	border: 10px solid #64c6de;
 }
 
 #main_title img {
