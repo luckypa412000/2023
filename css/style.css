@@ -5,10 +5,14 @@ The font size here is set to 62.5% so that
 a little easier
 */
 body {
+	position: relative;
+    left: 25%;
+    margin-left: -140px; /* 760 除以 -2 */
+    width: 280px;
 	margin: 0 auto;
 	width: 800px;
 	padding: 0;
-	background: #3689e2 url('../images/body_bg.gif') repeat-x top;
+	background: #1f2a36 url('../images/body_bg.gif') repeat-x top;
 	font-family: Helvetica, sans-serif;
 	font-size: 62.5%;
 	color: #000000;
@@ -85,7 +89,7 @@ the layout
 	padding: 10px;
 	width: 780px;
 	background: #fff;
-	border: 10px solid #64c6de;
+	border: 10px solid #9be2f4;
 }
 
 #main_title img {
